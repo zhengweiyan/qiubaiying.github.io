@@ -1,7 +1,7 @@
 ---
 layout:     post                    # 使用的布局（不需要改）
 title:      centOS服务器搭建java环境用于web项目               # 标题
-subtitle:   - #副标题
+subtitle:   test #副标题
 date:       2018-04-16              # 时间
 author:     zwy                      # 作者
 header-img: https://ws4.sinaimg.cn/large/006tKfTcgy1fqgtlqdztgj31kw0w0e81.jpg    #这篇文章标题背景图片
@@ -9,7 +9,6 @@ catalog: true                       # 是否归档
 tags:                               #标签
     - 后端
 ---
-## centOS服务器搭建java环境用于web项目
 
 - 安装JDK
 - JDK 是开发Java程序必须安装的软件，我们查看一下 `yum` 源里面的 JDK：
